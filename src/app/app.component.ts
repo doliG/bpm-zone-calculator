@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bpm-zone-calculator';
+  fcmax = 0
+  fcrest = 0
+  Math = Math;
 }
